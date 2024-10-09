@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+}
+ul li {
+    color: #0D0A19;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.bi-person{
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 7px;
+}
+.NavbarButton span{
+    color: #9A9EA7;
+    font-size: 14px;
+    font-weight: 500px;
+    margin-left: 10px;
+}
+.BrandColor{
+    color: #9A9EA7;
+    font-size: 16px;
+    line-height: 24px;
+}
+.HeroArea h1{
+    font-size: 64px;
+    font-weight: 700;
+}
+.HeroButton button{
+    font-weight: 600;
+    font-size: medium;
+    padding: 8px 20px 8px 20px;
+    margin-top: 20px;
+}
+.HeroButton button.testDrive{
+    background-color: #7963F0;
+    padding: 8px 30px 8px 30px;
+}
+.HeroImg{
+    padding-top: 90px;
+}
+.carousel-control-prev{
+    color: black;
+}
+.filter-search-section-title{
+    line-height: 36px;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+.vertical-line{
+    width: 1px;
+    height: 70px;
+    background-color: #EDE8E9;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.filter-search-label{
+    color: #9A9EA7;
+    line-height: 18px;
+    padding-left: 15px;
+}
+.filter-search-select{
+    width: 144px;
+    border: none;
+    line-height: 20px;
+}
+button.search-btn{
+    width: 120px;
+    height: 46px;
+    border-radius: 10px;
+    background-color: #7963F0;
+    padding-left: 10px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.bi-search{
+    padding-right: 10px;
+}
+.filter-search-box{
+    width: 100%;
+    max-width: 945px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0px 3px 4px 0px rgba(153,155,168,0.15);
+    padding: 18px;
+    
+}
+.HeadingMargin{
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.CardText{
+    color: #9A9EA7;
+}
+Button.PriceBtn{
+    background-color: #c5bfe6;
+    outline: none;
+    border: none;
+    color: #7963F0;
+    padding: 5px 15px;
+    
+}
+Button.Bestseller{
+    background-color: #F5F6F7;
+    color: #9A9EA7;
+    outline: none;
+    border: none;
+}
+.vw-add{
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+}
+.vw-logo{
+    width:50px ;
+    height: 50px;
+    margin-right:15px ;
+}
+.vw-text{
+    font-size:1.5rem ;
+    font-weight: bold;
+}
+.vw-price{
+    font-size: 1rem;
+    color: #9A9EA7;
+}
+.SellingCard{
+    margin-bottom: 40px;
+}
+.review-section{
+    padding-top: 93px;
+}
+.review-card{
+    width: 361px;
+}
+.FindVehicles-section{
+    padding-top: 100px;
+}
+.FindVehicles-Title{
+    position: absolute;
+    top: 39px;
+    width: 100%;
+
+}
+.footer-section{
+    padding-top: 27px;
+}
+.bi-globe-americas{
+    color: #9A9EA7;
+}
+.bi-three-dots{
+    color: #9A9EA7;
+}
+.Footer-CopyRight{
+    color: #9A9EA7;
+}
+.Footer-Span{
+    color: #9A9EA7;
+}
